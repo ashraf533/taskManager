@@ -1,0 +1,23 @@
+# Firebase
+google-services.json
+GoogleService-Info.plist
+firebase_config.dart
+
+# Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# iOS
+ios/Pods/
+ios/Runner.xcworkspace
+
+# IDE
+.idea/
+*.iml
